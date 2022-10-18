@@ -79,6 +79,11 @@ class MainActivity : AppCompatActivity() {
         val randomThree = UserModel(resultEducationApi3,resultRecreation3)
         userList.add(randomThree)
 
+        val randomFore = UserModel("Java and C++","Play a computer game")
+        userList.add(randomFore)
+
+        val randomFive = UserModel("Flutter and Kotlin","Drink soda")
+        userList.add(randomFive)
 
         return userList
     }
