@@ -1,4 +1,4 @@
-package com.example.recyclerviewactivity.jsondata
+package com.example.recyclerviewactivity.data.jsondata
 
 //JsonObject
 data class Main(

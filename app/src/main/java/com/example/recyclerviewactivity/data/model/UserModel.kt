@@ -1,4 +1,4 @@
-package com.example.recyclerviewactivity.model
+package com.example.recyclerviewactivity.data.model
 
 class UserModel (
     val lastName: String,

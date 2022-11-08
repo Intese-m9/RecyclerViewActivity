@@ -1,6 +1,6 @@
-package com.example.recyclerviewactivity.retrofit
+package com.example.recyclerviewactivity.domain.usecase.retrofit
 
-import com.example.recyclerviewactivity.jsondata.Main
+import com.example.recyclerviewactivity.data.jsondata.Main
 import retrofit2.Response
 import retrofit2.http.GET
 

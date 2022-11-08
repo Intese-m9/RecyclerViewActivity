@@ -3,10 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Ivan/Project/RecyclerViewActivity/app/src/main/res/layout/activity_main.xml" value="0.1671875" />
+        <entry key="..\:/Users/Ivan/Project/RecyclerViewActivity/app/src/main/res/layout/activity_permission.xml" value="0.1671875" />
+        <entry key="..\:/Users/Ivan/Project/RecyclerViewActivity/app/src/main/res/layout/item_user_layout.xml" value="0.1671875" />
         <entry key="..\:/Users/Ivan/RecyclerViewActivity/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Ivan/RecyclerViewActivity/app/src/main/res/layout/activity_permission.xml" value="0.33" />
         <entry key="..\:/Users/Ivan/RecyclerViewActivity/app/src/main/res/layout/item_user_layout.xml" value="0.5" />
       </map>
     </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/recyclerviewactivity/presentation/MainActivity.kt" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />

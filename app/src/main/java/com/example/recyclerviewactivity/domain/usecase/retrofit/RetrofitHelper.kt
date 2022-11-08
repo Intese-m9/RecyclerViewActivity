@@ -1,4 +1,4 @@
-package com.example.recyclerviewactivity.retrofit
+package com.example.recyclerviewactivity.domain.usecase.retrofit
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory

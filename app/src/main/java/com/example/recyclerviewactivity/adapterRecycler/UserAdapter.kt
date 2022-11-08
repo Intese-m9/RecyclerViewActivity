@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import android.widget.Toast
 import androidx.recyclerview.widget.RecyclerView
 import com.example.recyclerviewactivity.R
-import com.example.recyclerviewactivity.model.UserModel
+import com.example.recyclerviewactivity.data.model.UserModel
 import kotlinx.android.synthetic.main.item_user_layout.view.*
 
 class UserAdapter(private val context: Context): RecyclerView.Adapter<UserAdapter.UserViewHolder>() {
@@ -18,7 +18,7 @@ class UserAdapter(private val context: Context): RecyclerView.Adapter<UserAdapte
     private var userList = emptyList<UserModel>()
 
 
-    class UserViewHolder(view: View):RecyclerView.ViewHolder(view)
+    class UserViewHolder(view: View):RecyclerView.ViewHolder(view)//оптимизация ресурсов
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): UserViewHolder {
         //show RecyclerView layout (item_layout)
